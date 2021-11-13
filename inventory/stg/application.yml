@@ -1,0 +1,8 @@
+# server
+server:
+  address: 127.0.0.1
+  port: 8020
+
+# custom
+userBucket:
+  path: s3_bucket_path
